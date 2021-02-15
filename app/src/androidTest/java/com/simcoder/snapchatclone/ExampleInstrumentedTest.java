@@ -1,4 +1,4 @@
-package com.simcoder.snapchatclone;
+package com.simcoder.snapchatclone
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.simcoder.snapchatclone", appContext.getPackageName());
+        assertEquals("com.simcoder.snapchatclone", appContext.getjj_versace());
     }
 }
